@@ -1,11 +1,26 @@
-# CE-311K-Project
+# CE-311K Project
 
-Project Description: <div></div>
-Steady State Coders Group Member: Brandon, Evan, Jessica, and Noa 
-Preferred Topic: A steady-state calculator that can be used for calculations in systems and reactors.
-Preferred Presentation Date: March 25th, 2026 A brief summary of what you would like other groups to know about your problem (within three lines):
-I want to explain the idea of CSTR reactor, the equation used to calculate the steady state, and how this would be used. I also want to show how the code works and how to use it. I also want to show some results from the code and how it can be used to solve real world problems.
+## Project Description
+Steady State Coders Group  
+**Members:** Brandon, Evan, Jessica, and Noa  
 
-Code for CE 311K project, which is a project for the class Computational Methods for Engineers (CE 311K) at the University of Texas at Austin. The project is about using code to solve a real world engineering problem. we choose to model and simulate chemical reactors, specifically CSTRs (Continuous Stirred Tank Reactors) both in series and in parallel. Code in Final_project folder is the code for the project, and the merge_conflict folder is just a test of merging two branches in git, which was not successful but the early stages of code is still there.
+**Preferred Topic:**  
+A steady-state calculator that can be used for calculations in systems and reactors.
 
+**Preferred Presentation Date:**  
+april 7th, 2026  
 
+## Summary
+I want to explain the idea of a CSTR reactor, the equations used to calculate steady state, and how this is applied. I will also demonstrate how the code works, how to use it, and present results showing how it can solve real-world engineering problems.
+
+## About the Project
+This project is for *Computational Methods for Engineers (CE 311K)* at the University of Texas at Austin. The goal is to use code to solve a real-world engineering problem.
+
+We chose to model and simulate chemical reactors, specifically:
+- Continuous Stirred Tank Reactors (CSTRs)
+- Systems of CSTRs in series
+- CSTRs in parallel
+
+## Code Structure
+- `Final_project/` → Main project code  
+- `merge_conflict/` → Early-stage code used for testing Git branch merging (unsuccessful merge attempt, but contains useful initial work)
