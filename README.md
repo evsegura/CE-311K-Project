@@ -1,7 +1,7 @@
 # CE-311K-Project
 
-Project Description: 
-Steady State Coders Group Member: Brandon, Evan, Jessica, and Noa
+Project Description: <div></div>
+Steady State Coders Group Member: Brandon, Evan, Jessica, and Noa 
 Preferred Topic: A steady-state calculator that can be used for calculations in systems and reactors.
 Preferred Presentation Date: March 25th, 2026 A brief summary of what you would like other groups to know about your problem (within three lines):
 I want to explain the idea of CSTR reactor, the equation used to calculate the steady state, and how this would be used. I also want to show how the code works and how to use it. I also want to show some results from the code and how it can be used to solve real world problems.
